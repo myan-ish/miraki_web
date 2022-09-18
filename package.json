@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vue-responsive-video-background-player": "^2.3.1",
+    "webpack-dev-server": "^4.11.0"
+  }
+}
